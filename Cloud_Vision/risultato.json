@@ -1,0 +1,53 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01nkt",
+          "description": "Cheese",
+          "score": 0.96292377,
+          "topicality": 0.96292377
+        },
+        {
+          "mid": "/m/068kk",
+          "description": "Pecorino romano",
+          "score": 0.93900496,
+          "topicality": 0.93900496
+        },
+        {
+          "mid": "/m/01sbt1",
+          "description": "Parmigiano-reggiano",
+          "score": 0.9350815,
+          "topicality": 0.9350815
+        }
+      ],
+      "localizedObjectAnnotations": [
+        {
+          "mid": "/m/01nkt",
+          "name": "Cheese",
+          "score": 0.6829432,
+          "boundingPoly": {
+            "normalizedVertices": [
+              {
+                "x": 0.19346495,
+                "y": 0.013276811
+              },
+              {
+                "x": 0.76770014,
+                "y": 0.013276811
+              },
+              {
+                "x": 0.76770014,
+                "y": 0.7476905
+              },
+              {
+                "x": 0.19346495,
+                "y": 0.7476905
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
